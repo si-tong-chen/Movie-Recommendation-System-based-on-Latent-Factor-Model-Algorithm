@@ -2,7 +2,7 @@
 
 ### Introduction
 This study presents a personalized movie recommendation system leveraging a Latent Factor Model (LFM) to mitigate the decision fatigue faced by consumers amidst a plethora of digital content. Utilizing a comprehensive MovieLens dataset and a robust implementation process, we constructed a model capable of providing tailored recommendations.
-For details, please refer to the [notebook]().
+For details, please refer to the [notebook](https://github.com/si-tong-chen/Movie-Recommendation-System-based-on-Latent-Factor-Model-Algorithm/blob/main/notebooks/Movie%20Recommendation%20System%20based%20on%20Latent%20Factor%20Model%20(LFM)%20Algorithm.ipynb).
 
  ### Getting Started
 
@@ -29,7 +29,7 @@ make test  # test and evaluate the model
 ```
 
 ### License
-This project uses the following license: MIT.
+This project uses the following license: [MIT](https://github.com/si-tong-chen/Movie-Recommendation-System-based-on-Latent-Factor-Model-Algorithm/blob/main/LICENSE).
 
 
 
